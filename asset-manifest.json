@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/almaresumebuilder/static/css/main.4820ca1f.css",
+    "main.js": "/almaresumebuilder/static/js/main.5b7b3b8e.js",
+    "static/js/498.cf9d89ed.chunk.js": "/almaresumebuilder/static/js/498.cf9d89ed.chunk.js",
+    "static/js/703.6cf613a1.chunk.js": "/almaresumebuilder/static/js/703.6cf613a1.chunk.js",
+    "static/js/598.f4dd22ba.chunk.js": "/almaresumebuilder/static/js/598.f4dd22ba.chunk.js",
+    "static/media/resume-template-two.JPG": "/almaresumebuilder/static/media/resume-template-two.ad279397cfc195c453e2.JPG",
+    "static/media/resume-template-one.JPG": "/almaresumebuilder/static/media/resume-template-one.cd72847bd768b330cbe2.JPG",
+    "index.html": "/almaresumebuilder/index.html",
+    "main.4820ca1f.css.map": "/almaresumebuilder/static/css/main.4820ca1f.css.map",
+    "main.5b7b3b8e.js.map": "/almaresumebuilder/static/js/main.5b7b3b8e.js.map",
+    "498.cf9d89ed.chunk.js.map": "/almaresumebuilder/static/js/498.cf9d89ed.chunk.js.map",
+    "703.6cf613a1.chunk.js.map": "/almaresumebuilder/static/js/703.6cf613a1.chunk.js.map",
+    "598.f4dd22ba.chunk.js.map": "/almaresumebuilder/static/js/598.f4dd22ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4820ca1f.css",
+    "static/js/main.5b7b3b8e.js"
+  ]
+}
